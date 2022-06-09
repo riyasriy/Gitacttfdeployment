@@ -8,7 +8,7 @@ terraform {
   resource_group_name  = "gitactrg"
   storage_account_name = "gitactsaj922"
   container_name       = "tfstatedevops"
-  key                  = "dev.terraform.tfstate
+  key                  = "dev.terraform.tfstate"
 }
 
 }
